@@ -599,7 +599,7 @@
 					"$(SRCROOT)/OpenCC",
 					"$(inherited)",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				OTHER_CFLAGS = "$(cflags)";
 				OTHER_LDFLAGS = "";
 				OTHER_REZFLAGS = "";
@@ -643,7 +643,7 @@
 					"$(SRCROOT)/OpenCC",
 					"$(inherited)",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				MACOSX_DEPLOYMENT_TARGET = 10.9;
 				OTHER_CFLAGS = "$(cflags)";
 				OTHER_LDFLAGS = "";
 				OTHER_REZFLAGS = "";
